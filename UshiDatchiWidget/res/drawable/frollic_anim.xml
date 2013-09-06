@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:visible="true">
+    <item android:drawable="@drawable/frollic00"  android:duration="300" />
+    <item android:drawable="@drawable/frollic01"  android:duration="300" />
+    <item android:drawable="@drawable/frollic02"  android:duration="300" />
+    <item android:drawable="@drawable/frollic03"  android:duration="300" />
+    <item android:drawable="@drawable/frollic04"  android:duration="300" />
+    <item android:drawable="@drawable/frollic05"  android:duration="300" />
+    <item android:drawable="@drawable/frollic06"  android:duration="300" />
+    <item android:drawable="@drawable/frollic07"  android:duration="300" />
+    <item android:drawable="@drawable/frollic08"  android:duration="300" />
+    <item android:drawable="@drawable/frollic09"  android:duration="300" />
+    <item android:drawable="@drawable/frollic10"  android:duration="300" />
+    <item android:drawable="@drawable/frollic11"  android:duration="300" />
+    <item android:drawable="@drawable/frollic12"  android:duration="300" />
+    <item android:drawable="@drawable/frollic13"  android:duration="300" />
+    <item android:drawable="@drawable/frollic14"  android:duration="300" />
+    <item android:drawable="@drawable/frollic15"  android:duration="300" />
+    <item android:drawable="@drawable/frollic16"  android:duration="300" />
+    <item android:drawable="@drawable/frollic17"  android:duration="300" />
+    <item android:drawable="@drawable/frollic18"  android:duration="300" />
+    <item android:drawable="@drawable/frollic19"  android:duration="300" />
+    <item android:drawable="@drawable/frollic20"  android:duration="300" />
+    <item android:drawable="@drawable/frollic21"  android:duration="300" />
+    <item android:drawable="@drawable/frollic22"  android:duration="300" />
+    <item android:drawable="@drawable/frollic23"  android:duration="300" />
+    
+    <item android:drawable="@drawable/frollic25"  android:duration="300" />
+    <item android:drawable="@drawable/frollic26"  android:duration="300" />
+
+
+</animation-list>
